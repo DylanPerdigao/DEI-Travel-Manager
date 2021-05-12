@@ -1,0 +1,1630 @@
+======================================================================
+
+@Neuchâtel
+#Suiça
+§CHF
+
+----------------------------------------------------------------------
+Name: CHÂTEAU ET COLLEGIALE DE NEUCHÂTEL
+- Category: Castelo
+- Price: Gratuito
+- Description: Castelo de Neuchatel que foi construído no fim do sec. X, deu nome à sua cidade: Novum Castellum (Castelo Novo). Para além disso tem também duas belas torres, pertencentes À Igreja do mesmo.
+- Schedule:
+	_Monday: 08:00-20:00
+	_Tuesday: 08:00-20:00
+	_Wednesday: 08:00-20:00
+	_Thursday: 08:00-20:00
+	_Friday: 08:00-20:00
+	_Saturday: 08:00-20:00
+	_Sunday: 08:00-20:00
+- Address: Rue de la Collégiale 3, 2000 Neuchâtel
+- Phone: +41 32 721 23 15
+----------------------------------------------------------------------
+Name: RODOLPHE AVANT-CLUB
+- Category: Pub
+- Price: Gratuito
+- Description: É um prestigiado Pub da cidade de Neuchâtel, onde se podem encontrar pessoas das mais diversas idades, é também um local onde se efectuam varias ativadas festivas. 
+- Schedule:
+    	_Monday: FECHADO
+    	_Tuesday: 17:00-00:00
+	_Wednesday: 17:00-00:00
+	_Thursday: 17:00-01:00
+	_Friday: 17:00-02:00
+	_Saturday: 11:00-02:00
+	_Sunday: FECHADO
+- Address: Place Pury 11, 2000 Neuchâtel
+- Phone: +41 32 724 49 09
+----------------------------------------------------------------------
+Name: MUSEU DE ARTE E HISTÓRIA DE NEUCHÂTEL
+- Category: Museu
+- Price: 4.00 CHF
+- Description: Tesouros históricos da região apresentados em um edifício de estilo renascentista, retratam a vida cotidiana, cultura e política do século 14 aos dias de hoje. Os destaques imperdíveis incluem os três autómatos Jaquet-Droz do século XVIII.
+- Schedule:
+	_Monday: FECHADO
+	_Tuesday: 11:00-18:00
+	_Wednesday: 11:00-18:00
+	_Thursday: 11:00-18:00
+	_Friday: 11:00-18:00
+	_Saturday: 11:00-18:00
+	_Sunday: 11:00-18:00
+- Address: Rue des Terreaux 14, 2000 Neuchâtel
+- Phone: +41 32 717 79 18
+----------------------------------------------------------------------
+Name: ESTÁDIO DA MALADIERE
+- Category: Estádio
+- Price: 11.70 CHF
+- Description: O Stade de la Maladière é um estádio multiuso em Neuchâtel, na Suíça. Atualmente é usado principalmente para jogos de futebol e é o lar de Neuchâtel Xamax. O estádio tem 12.000 lugares, e substituiu o velho Stade de la Maladière.
+- Schedule:
+	_Monday: 08:00–17:00
+	_Tuesday: 08:00–17:00
+	_Wednesday: 08:00–17:00
+	_Thursday: 08:00–17:00
+	_Friday: 08:00–17:00
+	_Saturday: FECHADO
+	_Sunday: FECHADO
+- Address: Rue de la Pierre-à-Mazel 10, 2000 Neuchâtel
+- Phone: +41 32 717 77 89
+----------------------------------------------------------------------
+Name: CASTELO DE VALANGIN
+- Category: Castelo
+- Price: 6.00 CHF
+- Description: Com o castelo medieval como pano de fundo, a exposição permanente oferece uma visão profunda da história de Val-de-Ruz, bem como uma fascinante coleção de objetos do cotidiano.
+- Schedule: 
+	_Monday: FECHADO
+	_Tuesday: FECHADO
+	_Wednesday: 13:30–17:00
+	_Thursday: 13:30–17:00
+	_Friday: 13:30–17:00
+	_Saturday: 13:30–17:00
+	_Sunday: 11:00–17:00
+- Address: Le Bourg 24, 2042 Valangin
+- Phone: +41 32 857 23 83
+
+======================================================================
+======================================================================
+
+@Cracóvia
+#Polónia
+§zł
+
+----------------------------------------------------------------------
+Name: BASÍLICA DE SANTA MARIA
+- Category: BASILICA
+- Price: 15.00 zł
+- Description: A igreja de nossa senhora Assumed into Heaven é uma igreja do tipo gótico junto à praça principal do mercado em Cracóvia, Polónia. Construída no século XIV, suas fundações remontam ao início do século XIII e servem como um dos melhores exemplos da arquitetura gótica polonesa.
+- Schedule:
+    	_Monday: CLOSED
+   	_Tuesday: 09:10-17:30
+	_Wednesday: 09:10-17:30
+   	_Thursday: 09:10-17:30
+   	_Friday: 09:10-17:30
+  	_Saturday: 09:10-17:30
+  	_Sunday: 09:10-17:30
+- Address: Plac Mariacki 5, 31–042 Kraków
+- Phone:  +48 12-422-05-21
+----------------------------------------------------------------------
+Name: MUSEU SUBTERRÂNEO DE RYNEK
+- Category: Museu
+- Price: 18.00 zł
+- Description: O museu central subterrâneo de Cracóvia está situado abaixo da praça do mercado da cidade e tem uma área de mais de 6000 metros quadrados. O trabalho na praça subterrânea começou no início de 2009 e custou 38 milhões de zloty.
+- Schedule:
+	_Monday: 10:00-20:00
+    	_Tuesday: 10:00-16:00
+   	_Wednesday: 10:00-20:00
+   	_Thursday: 10:00-20:00
+	_Friday: 10:00-20:00
+  	_Saturday: 10:00-20:00
+  	_Sunday: 10:00-20:00
+- Address: Rynek Glowny 1, 31-042 Kraków
+- Phone: +48 12-426-50-60
+----------------------------------------------------------------------
+Name: AUSCHWITZ-BIRKENAU
+- Category: Museu
+- Price: 60.00 zł
+- Description: Auschwitz é uma rede de campos de concentração localizados no sul da Polônia operados pelo Terceiro Reich e colaboracionistas nas áreas polonesas anexadas pela Alemanha Nazista, maior símbolo do Holocausto perpetrado pelo nazismo durante a Segunda Guerra Mundial.
+- Schedule:
+	_Monday: 07:30-16:00
+	_Tuesday: 07:30-16:00
+    	_Wednesday: 07:30-16:00
+    	_Thursday: 07:30-16:00
+   	_Friday: 07:30-16:00
+   	_Saturday: 07:30-16:00
+  	_Sunday: 07:30-16:00
+- Address: ul. Wieźniów Oświęcimia 20, 32-603 Oświęcim
+- Phone: +48 33-844-80-00
+----------------------------------------------------------------------
+Name: MINA DE SAL DE WIELICZKA 
+- Category: Monumento
+- Price: 69.00 zł
+- Description: A Mina de Sal de Wieliczka, na cidade de Wieliczka, no sul da Polônia, fica dentro da área metropolitana de Cracóvia. O cloreto de sódio foi produzido anteriormente a partir da salmoura de ressurgência - e desde o período Neolítico.
+- Schedule:
+	_Monday: 08:00–17:00
+	_Tuesday: 08:00–17:00
+    	_Wednesday: 08:00–17:00
+    	_Thursday: 08:00–17:00
+    	_Friday: 08:00–17:00
+    	_Saturday: 08:00–17:00
+    	_Sunday: 08:00–17:00
+- Address: ul. Danilowicza 10, 32-020 Wieliczka
+- Phone: +48 12-278-73-02
+
+======================================================================
+======================================================================
+
+@Varsóvia
+#Polónia
+§zł
+
+----------------------------------------------------------------------
+Name: PGE NARODOWY
+- Category: Estádio
+- Price: 32.00 zł
+- Description: O Estádio Nacional de Varsóvia é um estádio de futebol na Polônia. É utilizado para jogos de futebol e é a 'casa' da Seleção Polonesa de Futebol. O estádio tem uma capacidade de 58.145 lugares sentados, o que faz dele o maior palco de futebol na Polónia.
+- Schedule:
+	_Monday: 07:00-21:00
+    	_Tuesday: 07:00-21:00
+    	_Wednesday: 07:00-21:00
+    	_Thursday: 07:00-21:00
+    	_Friday: 07:00-21:00
+    	_Saturday: 07:00-21:00
+    	_Sunday: 07:00-21:00
+- Address: Al. Ks. J. Poniatowskiego 1, 03–901 Warszawa
+- Phone: +48 22-295-90-00
+----------------------------------------------------------------------
+Name: CENTRO DE CIÊNCIAS COPÉRNICO
+- Category: Museu
+- Price: 22.00 zł
+- Description: O Copernicus Science Center é um museu de ciências que fica às margens do rio Vístula, em Varsóvia, na Polônia. Ele contém mais de 450 exposições interativas que permitem que os visitantes, individualmente, realizem experimentos e descubram as leis da ciência por si mesmos.
+- Schedule:
+	_Monday: 07:45-19:00
+    	_Tuesday: 07:45-19:00
+    	_Wednesday: 07:45-19:00
+    	_Thursday: 07:45-19:00
+    	_Friday: 07:45-19:00
+    	_Saturday: 10:00-19:00
+    	_Sunday: 10:00-19:00
+- Address: Wybrzeże Kościuszkowskie 20, 00-390 Warsaw
+- Phone: +48 22-596-41-00
+----------------------------------------------------------------------
+Name: PALÁCIO DE CULTURA E CIÊNCIA
+- Category: Palácio
+- Price: 15.00 zł
+- Description: Palácio da Cultura e Ciência é um arranha-céu, actualmente é o 146º arranha-céu mais alto do mundo, com 237 metros. Edificado na cidade de Varsóvia, Polónia, foi concluído em 1955 com 33 andares.
+- Schedule:
+	_Monday: 09:00-18:00
+    	_Tuesday: 09:00-18:00
+    	_Wednesday: 09:00-18:00
+    	_Thursday: 09:00-18:00
+    	_Friday: 09:00-18:00
+    	_Saturday: 09:00-18:00
+    	_Sunday: 09:00-18:00
+- Address: Plac Defilad 1, 00-901 Warsaw
+- Phone: +48 22-656-76-00
+----------------------------------------------------------------------
+Name: JARDIM ZOOLÓGICO DE VARSÓVIA
+- Category: Zoo
+- Price: 20.00 zł
+- Description: O Jardim Zoológico de Varsóvia, conhecido simplesmente como Zoológico de Varsóvia, é um zoológico científico localizado ao longo do rio Vístula em Varsóvia, na Polônia.
+- Schedule:
+	_Monday: 09:00–16:00
+    	_Tuesday: 09:00–16:00
+    	_Wednesday: 09:00–16:00
+    	_Thursday: 09:00–16:00
+    	_Friday: 09:00–16:00
+    	_Saturday: 09:00–17:00
+    	_Sunday: 09:00–17:00
+- Address: Ratuszowa 1, 03-461 Warsaw
+- Phone: +48 22-619-40-41
+----------------------------------------------------------------------
+Name: MUSEU POLACO DE VODKA
+- Category: Museu
+- Price: 40.00 zł
+- Description: Museu de Vodka restaurado a partir de uma antiga fábrica que produzia bebidas alcoólicas.
+- Schedule:
+	_Monday: 11:00–20:30
+    	_Tuesday: 11:00–20:30
+    	_Wednesday: 11:00–20:30
+    	_Thursday: 11:00–20:30
+    	_Friday: 11:00–21:30
+    	_Saturday: 11:00–21:30
+    	_Sunday: 11:00–20:30
+- Address: Ząbkowska 27, 03-736 Warsaw
+- Phone: +48 22 419 31 50
+
+================================================== ====================
+================================================== ====================
+
+@Roma
+#Itália
+§€
+
+----------------------------------------------------------------------
+Name: COLISEU DE ROMA
+- Category: Coliseu
+- Price: 12 € 
+- Description: Durante o Império Romano e sob o lema de “Pan et Circus”, o Coliseu Romano permitia a mais de 50.000 pessoas desfrutar de seus espetáculos preferidos. As exibições de animais exóticos, execuções de prisioneiros, recreações de batalhas e lutas de gladiadores acompanharam durante anos o povo romano. O Coliseu permaneceu ativo durante mais de 500 anos. Os últimos jogos da história aconteceram no século VI.
+A partir do século VI, o Coliseu sofreu assaltos, terramotos e inclusive bombardeios durante a Segunda Guerra Mundial. Com um grande instinto de sobrevivência, o Coliseu foi usado durante décadas como armazém, igreja, cemitério e  como castelo para a nobreza.
+- Schedule:
+	_Monday: 08:30-18:00
+	_Tuesday: 08:30-18:00
+	_Wednesday: 08:30-18:00
+	_Thursday: 08:30-18:00
+	_Friday: 08:30-18:00
+	_Saturday: 08:30-18:00
+	_Sunday: 08:30-18:00
+- Address: Piazza del Colosseo, 00184 Roma
+- Phone: +39 06 39967 700
+----------------------------------------------------------------------
+Name: FORUM ROMANO
+- Category: Forum
+- Price: 12 €
+- Description: O Fórum Romano era a região onde acontecia a vida pública e religiosa na antiga Roma. O Fórum é, junto com o Coliseu, a maior mostra da grandeza do Império Romano que se pode ver na atualidade. Ao finalizar o Império, o Fórum Romano ficou no esquecimento e pouco a pouco foi enterrado. Embora no século XVI já se conhecia a existência e a localização do Fórum, foi só no século XX que foram iniciadas as escavações. 
+- Schedule:
+	_Monday: 08:30-19:15
+	_Tuesday: 08:30-19:15
+	_Wednesday: 08:30-19:15
+	_Thursday: 08:30-19:15
+	_Friday: 08:30-19:15
+	_Saturday: 08:30-19:15
+	_Sunday: 08:30-19:15
+- Address: Piazza Santa Maria Nova 53, 00186 Roma
+- Phone: +39 06 39967 700
+----------------------------------------------------------------------
+Name: FONTANA DI TREVI
+- Category: Fonte
+- Price: 0 €
+- Description: A Fontana di Trevi é a fonte mais bonita de Roma, e para alguns a mais bela do mundo. Com 20 metros de largura e por 26 metros de altura, a Fontana di Trevi é também a maior fonte da cidade de Roma. A origem da fonte remonta ao ano 19 a.c., época em que a Fontana constituía o final do aqueduto Aqua Virgo. A primeira fonte construída durante o Renascimento, sob as ordens do Papa Nicolau V. Como Curiosidade, o nome de Trevi deriva de Tre Vie(três vias), já que a fonte era o ponto de encontro de três ruas.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Piazza di Trevi, 00187 Roma
+- Phone: NONE
+----------------------------------------------------------------------
+Name: CAMPO DI FIORI
+- Category: Praça
+- Price: 0 €
+- Description: O Campo de' Fiori é uma praça no centro de Roma, ao leste do rio Tibre, no rione Parione. A praça também confere o nome ao bairro daquele local. Todos os dias, exceto aos domingos, lá ocorre um dos maiores mercados de Roma
+- Schedule:
+	_Monday: 07:00-14:00
+	_Tuesday: 07:00-14:00
+	_Wednesday: 07:00-14:00
+	_Thursday: 07:00-14:00
+	_Friday: 07:00-14:00
+	_Saturday: 07:00-14:00
+	_Sunday: FECHADO
+- Address: Market At Campo Dei Fiori, Piazza Campo de'Fiori 32-51, 00186 Roma
+- Phone: +39 06 68752 87
+
+================================================== ====================
+================================================== ====================
+
+@Barcelona
+#Spain
+§€
+
+----------------------------------------------------------------------
+Name: SAGRADA FAMILIA
+- Category: Templo
+- Price: 16 €
+- Description: Templo Expiatório da Sagrada Família, e também conhecido simplesmente como Sagrada Família, é um grande templo católico da cidade de Barcelona, Catalunha, Espanha, desenhado pelo arquiteto catalão Antoni Gaudí, e considerado por muitos críticos como a sua obra-prima e expoente da arquitetura modernista catalã.
+- Schedule:
+	_Monday: 09:00-20:00
+	_Tuesday: 09:00-20:00
+	_Wednesday: 09:00-20:00
+	_Thursday: 09:00-20:00
+	_Friday: 09:00-20:00
+	_Saturday: 09:00-20:00
+	_Sunday: 09:00-20:00
+- Address: Carrer de Mallorca, 401, 08013 Barcelona
+- Phone: +34 932 080 414
+----------------------------------------------------------------------
+Name: CAMP NOU
+- Category: Estádio
+- Price: 25 €
+- Description: O Camp Nou é um estádio de futebol localizado na cidade de Barcelona. Este estádio pertence a uma das maiores equipas do Mundo, FC Barcelona.
+- Schedule:
+	_Monday: 10:00-20:00
+	_Tuesday: 10:00-20:00
+	_Wednesday: 10:00-20:00
+	_Thursday: 10:00-20:00
+	_Friday: 10:00-20:00
+	_Saturday: 10:00-20:00
+	_Sunday: 10:00-20:00
+- Address: Carrer d'Arístides Maillol, 12, 08028 Barcelona
+- Phone: +34 902 189 900
+----------------------------------------------------------------------
+Name: PARQUE GUELL
+- Category: Parque
+- Price: 13 €
+- Description: O Parque Güell é um grande parque urbano com elementos arquitectónicos situado no distrito de Gràcia da cidade de Barcelona. Originalmente destinado a ser uma urbanização, foi concebido pelo arquiteto Antoni Gaudí, expoente máximo do modernismo catalão, por encomenda do empresário Eusebi Güell.[1] Construído entre 1900 e 1914, revelou-se um fracasso comercial e foi vendido ao Município de Barcelona em 1922, tendo sido inaugurado como parque público em 1926.
+- Schedule:
+	_Monday: 08:00-19:30
+	_Tuesday: 08:00-19:30
+	_Wednesday: 08:00-19:30
+	_Thursday: 08:00-19:30
+	_Friday: 08:00-19:30
+	_Saturday: 08:00-19:30
+	_Sunday: 08:00-19:30
+- Address: Park Güell Carrer d'Olot, s/n, 08024 Barcelona
+- Phone: +34 934 091 831
+----------------------------------------------------------------------
+Name: CASA BATLLÓ
+- Category: Museu modernista
+- Price: 31 €
+- Description: A Casa Batlló é um edifício modernista, mais precisamente modernista catalão. O imóvel foi comandado por Josep Batlló Casanovas, industrial do setor têxtil. O edifício figura na lista do património mundial da UNESCO, e é visitável pelo público.
+- Schedule:
+	_Monday: 09:00-21:00
+	_Tuesday: 09:00-21:00
+	_Wednesday: 09:00-21:00
+	_Thursday: 09:00-21:00
+	_Friday: 09:00-21:00
+	_Saturday: 09:00-21:00
+	_Sunday: 09:00-21:00
+- Address: Passeig de Gràcia, 43, 08007 Barcelona
+- Phone: +34 932 160 306
+
+================================================== ====================
+================================================== ====================
+
+@Istambul
+#Turquia
+§₺
+
+----------------------------------------------------------------------
+Name: SANTA SOFIA
+- Category: Museu
+- Price: 128 ₺
+- Description: A Basílica de Santa Sofia, também conhecida como Hagia Sophia é um imponente edifício construído entre 532 e 537 pelo Império Bizantino para ser a catedral de Constantinopla (atualmente Istambul, na Turquia). Da data em que foi edificada, em 537, até 1453, ela serviu nesta função, com exceção do período entre 1204 e 1261, quando ela foi convertida para uma catedral católica romana durante o Patriarcado Latino de Constantinopla que se seguiu ao saque da capital imperial pela Quarta Cruzada. O edifício foi uma mesquita entre 29 de maio de 1453 e 1931, quando foi secularizada. Ela reabriu como um museu em 1 de fevereiro de 1935.
+- Schedule:
+	_Monday: 09:00-17:00
+	_Tuesday: 09:00-17:00
+	_Wednesday: 09:00-17:00
+	_Thursday: 09:00-17:00
+	_Friday: 09:00-17:00
+	_Saturday: 09:00-17:00
+	_Sunday: 09:00-17:00
+- Address: Ayasofya Square, Sultanahmet, 34122 Fatih Istanbul
+- Phone: +90 (212) 522 17 50
+----------------------------------------------------------------------
+Name: MESQUITA AZUL
+- Category: Mesquita
+- Price: 338 ₺
+- Description: A Mesquita Azul ou Mesquita do Sultão Amade é uma mesquita otomana de Istambul, Turquia. Foi construída entre 1609 e 1616 e está situada no bairro de Eminönü, no distrito de Fatih em frente da Basílica de Santa Sofia da qual se encontra separada por um formoso espaço ajardinado. É a única mesquita de Istambul que possui seis minaretes. A Mesquita Azul é um triunfo em harmonia, proporção e elegância. Construída em um estilo clássico otomano, o seu magnífico exterior não faz sombra a seu suntuoso interior. Uma verdadeira sinfonia de belos mosaicos azuis de Iznik dão a este espaço uma atmosfera muito especial.
+- Schedule:
+	_Monday: 08:30-23:30
+	_Tuesday: 08:30-23:30
+	_Wednesday: 08:30-23:30
+	_Thursday: 08:30-23:30
+	_Friday: 08:30-23:30
+	_Saturday: 08:30-23:30
+	_Sunday: 08:30-23:30
+- Address: Blue Mosque, 34122 Sultanahmet Istanbul
+- Phone: +90 (212) 458 44 68
+----------------------------------------------------------------------
+Name: PALÁCIO TOPKAPI
+- Category: Palácio
+- Price: 237 ₺
+- Description: O Palácio de Topkapı localiza-se na cidade de Istambul, na Turquia. Topkapı significa "porta do canhão". Foi construído por Maomé II, o Conquistador, logo após a conquista de Constantinopla, em 1453, e foi a residência dos sultões durante quatro séculos. Atualmente o Palácio é dividido em várias salas de exposição com objetos de ouro (tronos, xícaras, talheres, berços, jóias diversas cravejadas em pedras preciosas), prata, cerâmica, miniaturas, roupas e relíquias sagradas para os muçulmanos, como os pelos da barba e a marca do pé do profeta Maomé.
+- Schedule:
+	_Monday: 09:00-18:45
+	_Tuesday: FECHADO
+	_Wednesday: 09:00-18:45
+	_Thursday: 09:00-18:45
+	_Friday: 09:00-18:45
+	_Saturday: 09:00-18:45
+	_Sunday: 09:00-18:45
+- Address: Sultanahmet, 34122 Istanbul
+- Phone: +90 (212) 512 04 80
+----------------------------------------------------------------------
+Name: PRAÇA TASKIM
+- Category: Praça
+- Price: 0 ₺
+- Description: Centrado na praça Taksim, com o Monumento da República, Taksim é um bairro movimentado com vida noturna, lojas e restaurantes. Os elétricos tradicionais percorrem a Istiklal Caddesi, a principal avenida pedonal da cidade, repleta de edifícios do século XIX que alojam cadeias de lojas internacionais, cinemas e cafés. Uma densa rede de ruas secundárias inclui bares, lojas de antiguidades e restaurantes com terraço no telhado e vistas para o Bósforo.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Gümüşsuyu Mahallesi, 34437 Beyoğlu/Istambul
+- Phone: NONE
+
+================================================== ====================
+================================================== ====================
+
+@Londres
+#Inglaterra
+§£
+
+----------------------------------------------------------------------
+Name: PALÁCIO DE WESTMINSTER
+- Category: Monumento
+- Price: 26 £
+- Description: O Palácio de Westminster, também conhecido como Casas do Parlamento, é o palácio londrino onde estão instaladas as duas Câmaras do Parlamento do Reino Unido. O palácio fica situado na margem Norte do rio Tâmisa, no Borough da Cidade de Westminster próximo de outros edifícios governamentais ao longo da Whitehall.
+- Schedule:
+	_Monday: 09:00-17:00
+	_Tuesday: 09:00-17:00
+	_Wednesday: 09:00-17:00
+	_Thursday: 09:00-17:00
+	_Friday: 09:00-17:00
+	_Saturday: FECHADO
+	_Sunday: FECHADO
+- Address: Houses of Parliament SW1A 0AA, London
+- Phone: +44 20 7219 3000
+----------------------------------------------------------------------
+Name: TORRE DE LONDRES
+- Category: Monumento
+- Price: 75 £
+- Description: O Palácio de Westminster, também conhecido como Casas do Parlamento, é o palácio londrino onde estão instaladas as duas Câmaras do Parlamento do Reino Unido. O palácio fica situado na margem Norte do rio Tâmisa, no Borough da Cidade de Westminster próximo de outros edifícios governamentais ao longo da Whitehall.
+- Schedule:
+	_Monday: 09:00-17:30
+	_Tuesday: 09:00-17:30
+	_Wednesday: 09:00-17:30
+	_Thursday: 09:00-17:30
+	_Friday: 09:00-17:30
+	_Saturday: 10:00-17:30
+	_Sunday: 10:00-17:30
+- Address: EC3N 4AB, London
+- Phone: +44 20 3166 6000
+----------------------------------------------------------------------
+Name: MUSEU BRITÂNICO
+- Category: Museu
+- Price: 35 £
+- Description: O Museu de Londres é um museu em Londres que documenta a história da capital britânica, desde tempos pré-históricos até ao presente. Fica muito perto do Barbican Centre, e faz parte do apelativo complexo de edifícios Barbican criado nas décadas de 1960 e 1970, parte de uma inovadora restauração de uma área da City castigada por bombardeamentos durante a Segunda Guerra Mundial. Foi inaugurado em 1976, e está a poucos minutos a pé e para norte da Catedral de São Paulo e domina os restos da muralha romana, encontrando-se junto do núcleo urbano mais antigo de Londres, conhecido como a City, hoje a zona financeira. O museu trata principalmente da história social de Londres e dos seus habitantes através da história.
+- Schedule:
+	_Monday: 09:00-17:30
+	_Tuesday: 09:00-17:30
+	_Wednesday: 09:00-17:30
+	_Thursday: 09:00-17:30
+	_Friday: 09:00-17:30
+	_Saturday: 10:00-20:30
+	_Sunday: 10:00-17:30
+- Address: Great Russell Street, WC1B 3DG, London
+- Phone: +44 20 7323 8299
+----------------------------------------------------------------------
+Name: NATIONAL GALLERY
+- Category: Galeria de arte
+- Price: Gratuito
+- Description: National Gallery ("Galeria Nacional", em inglês) é um museu de arte em Trafalgar Square, em Westminster, no centro de Londres, Reino Unido. Fundada em 1824, abriga uma coleção de mais de 2.300 pinturas que datam de meados do século XIII a 1900. A Galeria é uma instituição de caridade isenta e um organismo público do Departamento de Cultura, Mídia e Esportes.[2] Sua coleção pertence ao público do Reino Unido e a entrada para a coleção principal é gratuita. Está entre os museus de arte mais visitados no mundo, depois do Musée du Louvre, o Museu Britânico e do Museu Metropolitano de Arte.
+- Schedule:
+	_Monday: 09:00-18:00
+	_Tuesday: 09:00-18:00
+	_Wednesday: 09:00-18:00
+	_Thursday: 09:00-18:00
+	_Friday: 09:00-18:00
+	_Saturday: 10:00-21:00
+	_Sunday: 10:00-18:00
+- Address: Trafalgar Square, WC2N 5DN London
+- Phone: +44 20 7747 2885
+----------------------------------------------------------------------
+Name: ARCO DE WELLINGTON
+- Category: Monumento
+- Price: Gratuito
+- Description: O Arco de Wellington, também conhecido como Arco da Constituição ou (originalmente) Arco de Green Park, é um arco do triunfo situado a sul de Hyde Park, no centro de Londres. O arco, junto com o Marble Arch, foi projectado em 1825 por Jorge IV para comemorar as vitórias britânicas nas Guerras Napoleônicas. O Arco de Wellington por sua vez, foi concebido como um portal externo para Constitution Hill e, portanto, uma grande entrada para o centro de Londres a partir do oeste.
+- Schedule:
+	_Monday: 10:00-18:00
+	_Tuesday: 10:00-18:00
+	_Wednesday: 10:00-18:00
+	_Thursday: 10:00-18:00
+	_Friday: 10:00-18:00
+	_Saturday: 10:00-18:00
+	_Sunday: 10:00-18:00
+- Address: Apsley Way, W1J 7JZ London
+- Phone: +44 20 7747 2885
+----------------------------------------------------------------------
+Name: PICADILLY CIRCUS
+- Category: Praça 
+- Price: Gratuito
+- Description: Piccadilly Circus é uma famosa praça de Londres, e é uma das zonas mais movimentadas da capital britânica.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Picadelly Circus, London
+- Phone: NONE
+----------------------------------------------------------------------
+Name: BRIXTON
+- Category: Zona multicultural
+- Price: Gratuito
+- Description: Brixton é uma animada zona multicultural com um espírito despretensioso. No Brixton Market há comida de rua e achados vintage, bem como roupas e produtos agrícolas que refletem as raízes caribenhas da zona. Brixton Village é adequada para caminhar e encontra-se repleta de restaurantes informais que servem cozinha internacional. Os foliões que gostam de se divertir até tarde frequentam bares conhecidos e espaços de música ao vivo como o O2 Academy Brixton, onde podem assistir a concertos rock, e o Hootananny, para sons vanguardistas.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Brixton, London
+- Phone: NONE
+
+================================================== ====================
+================================================== ====================
+
+@Amsterdão
+#Holanda
+§€
+
+----------------------------------------------------------------------
+Name: MUSEU VAN GOGH
+- Category: Museu
+- Price: 30 €
+- Description: O Museu Van Gogh é um museu em Amsterdã, nos Países Baixos. Seu acervo é composto por trabalhos do pintor Vincent van Gogh e de seus contemporâneos. Uma visita ao Museu Van Gogh é uma experiência única. O museu contém a maior coleção de pinturas de Vincent van Gogh no mundo.
+Ele oferece a oportunidade de acompanhar a evolução do artista, ou comparar suas pinturas às obras de outros artistas do século XIX na coleção. O museu também oferece uma vasta oferta de exposições sobre vários assuntos do século XIX e história da arte. A coleção permanente do museu inclui mais de 200 pinturas de Van Gogh e muitos desenhos e cartas.
+- Schedule:
+	_Monday: 09:00-18:00
+	_Tuesday: 09:00-18:00
+	_Wednesday: 09:00-18:00
+	_Thursday: 09:00-18:00
+	_Friday: 09:00-21:00
+	_Saturday: 09:00-18:00
+	_Sunday: 09:00-18:00
+- Address: Museumplein 6, 1071 DJ Amsterdam
+- Phone: +31 20 570 52 00
+----------------------------------------------------------------------
+Name: MERCADO DAS FLORES
+- Category: Mercado
+- Price: Gratuito
+- Description: O Bloemenmarkt é o mercado de flores mais famoso de Amesterdão, nos Países Baixos. Os postos de venda do mercado estão situados sobre barcaças atracadas ao longo das margens do canal Singel. É o único mercado exclusivamente de flores flutuante do mundo. Foi fundado em 1862, entre as praças Koningsplein e Muntplein.
+- Schedule:
+	_Monday: 09:00-17:30
+	_Tuesday: 09:00-17:30
+	_Wednesday: 09:00-17:30
+	_Thursday: 09:00-17:30
+	_Friday: 09:00-17:30
+	_Saturday: 09:00-17:30
+	_Sunday: 11:00-17:30
+- Address: Singel 600-630,1017 AZ Amsterdam
+- Phone: +31 20 702 60 00
+----------------------------------------------------------------------
+Name: CANAIS DE AMSTERDÃO
+- Category: Museu
+- Price: 17,20 €
+- Description: Amsterdã, capital da Holanda, é chamada de Veneza do Norte por seus mais de 100 quilômetros de canais, cerca de 90 ilhas e 1500 pontes[1] [2] [3] [4]. Os três principais canais, Herengracht, Prinsengracht, e Keizersgracht, cavados no Século XVII durante a Idade de Ouro Holandesa, formam cinturões concêntricos ao redor da cidade, conhecidos como Grachtengordel. Ao longo dos canais existem 1550 monumentos. [5] A área de canais do Século XVII, incluindo Prinsengracht, Keizersgracht, Herengracht e Jordaan, foram incluídas na lista de Patrimônio Mundial da UNESCO em 2010.
+- Schedule:
+	_Monday: 09:00-22:00
+	_Tuesday: 09:00-22:00
+	_Wednesday: 09:00-22:00
+	_Thursday: 09:00-22:00
+	_Friday: 09:00-22:00
+	_Saturday: 09:00-22:00
+	_Sunday: 09:00-22:00
+- Address: Herengracht 482, 1017 CB Amsterdam
+- Phone: +31 20 420 4000
+----------------------------------------------------------------------
+Name: PRAÇA DAM
+- Category: Praça
+- Price: Gratuito 
+- Description:A Praça Dam é uma praça localizada no centro histórico de Amsterdão, a capital dos Países Baixos. Seus prédios famosos e eventos frequentes fazem-na um dos lugares mais importantes e conhecidos da cidade. esta praça localiza-se numa zona caótica e de muita policia, pois os assaltos são constantes.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Dam, 1012 Amsterdam
+- Phone: NONE
+----------------------------------------------------------------------
+Name: MOULIN ROUGE
+- Category: Cabaré
+- Price: 30 € 
+- Description: Bairro de entretenimento noturno.
+- Schedule:
+	_Monday: 20:00-02:00
+	_Tuesday: 20:00-02:00
+	_Wednesday: 20:00-02:00
+	_Thursday: 14:00-02:00
+	_Friday: 14:00-02:00
+	_Saturday: 14:00-02:00
+	_Sunday: 14:00-02:00
+- Address:  Oudezijds Achterburgwal 5-7, 1012 DA Amsterdam
+- Phone: +31 20 627 5030
+
+================================================== ====================
+================================================== ====================
+
+@Budapeste
+#Hungria
+§Ft
+
+----------------------------------------------------------------------
+Name: PONTE DAS CORRENTES
+- Category: Ponte
+- Price: Gratuito 
+- Description: A Ponte das Correntes é a ponte mais antiga de Budapeste e a mais conhecida de todo o rio Danúbio. Até à construção da ponte, o Danúbio só podia ser atravessado de barco ou, durante os invernos frios, caminhando sobre as suas águas congeladas. Esta ponte liga Buda a Peste, é uma obra arquitectónica fantástica. 
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: 1011 Budapest, Lánchíd
+- Phone: +36 1 438 8080
+----------------------------------------------------------------------
+Name: PARLAMENTO DE BUDAPESTE
+- Category: Parlamento
+- Price: 9138 Ft
+- Description: O Parlamento de Budapeste é o local onde se reúne a Assembleia Nacional da Hungria, e um dos edifícios legislativos mais antigos da Europa, que constitui um notável exemplo paisagístico da Hungria e um destino muito popular em Budapeste. O Parlamento de Budapeste é o terceiro maior parlamento do mundo depois do da Romênia e da Argentina. Construído entre 1884 e 1902, o Parlamento de Budapeste foi a maior obra da sua época. Possui 691 salas e tem 268 metros de comprimento e 118 metros de largura. 
+- Schedule:
+	_Monday: 08:00-18:00
+	_Tuesday: 08:00-18:00
+	_Wednesday: 08:00-18:00
+	_Thursday: 08:00-18:00
+	_Friday: 08:00-18:00
+	_Saturday: 08:00-16:00
+	_Sunday: 08:00-16:00
+- Address: Budapest, Kossuth Lajos tér 1-3, 1055 Hungria
+- Phone: +36 1 538 9395
+----------------------------------------------------------------------
+Name: AVENIDA ANDRÁSSY
+- Category: Avenida
+- Price: Gratuito 
+- Description: A Avenida Andrássy é um boulevar emblemático de Budapeste, Hungria que remonta ao ano de 1872. A Avenida tem a função unir a Erzsébet tér com o Városliget. Rodeada por casas e palácios neorrenascentistas ecléticos que apresentam belas fachadas, escadas e interiores.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: 1062 Budapeste, Andrássy út
+- Phone: NONE
+----------------------------------------------------------------------
+Name: BALNEÁRIO GELLERT
+- Category: Termas
+- Price: 6201 Ft 
+- Description: Parte do famoso Hotel Gellért em Buda, os Banhos Termais Gellért e a Piscina é um complexo de banhos em Budapeste, na Hungria
+- Schedule:
+	_Monday: 06:00-20:00
+	_Tuesday: 06:00-20:00
+	_Wednesday: 06:00-20:00
+	_Thursday: 06:00-20:00
+	_Friday: 06:00-20:00
+	_Saturday: 06:00-20:00
+	_Sunday: 06:00-20:00
+- Address: Gellért fürdő, 1114 Budapest XI. kerület
+- Phone: +36 1 466 6166
+----------------------------------------------------------------------
+Name: PRAÇA DOS HERÓIS
+- Category: Praça
+- Price: Gratuito 
+- Description: A Praça dos Heróis é uma das praças mais importantes de Budapeste, capital da Hungria. Fica situada num extremo da avenida Andrássy (com a qual faz parte do conjunto declarado Património da Humanidade designado Budapeste, com as Margens do Danúbio, o Bairro do Castelo de Buda e a Avenida Andrássy), perto do parque da cidade.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: 1146 Budapest XIV. kerület, Hősök tere
+- Phone: +36 1 322 4098
+
+================================================== ====================
+================================================== ====================
+
+@Berlim
+#Alemanha
+§€
+
+----------------------------------------------------------------------
+Name: MEMORIAL DO MURO DE BERLIM
+- Category: Monumento
+- Price: 12 € 
+- Description: O Memorial do Muro de Berlim é um memorial para lembrar a divisão de Berlim e as pessoas que foram mortas ou morreram ao tentar fugir para o lado ocidental.
+Neste local você poderá conhecer melhor a história do muro, sua construção, seu desenvolvimento, os fatos tristes e trágicos que estão associados com ele.  Conhecer este memorial é como fazer uma viagem no tempo, é uma verdadeira aula de história.
+- Schedule:
+	_Monday: 08:00-22:00
+	_Tuesday: 08:00-22:00
+	_Wednesday: 08:00-22:00
+	_Thursday: 08:00-22:00
+	_Friday: 08:00-22:00
+	_Saturday: 08:00-22:00
+	_Sunday: 08:00-22:00
+- Address: Bernauer Str. 111, 13355 Berlin, Alemanha
+- Phone: +49 30 467986666
+----------------------------------------------------------------------
+Name: CATEDRAL DE BERLIM
+- Category: Catedral
+- Price: 7 € 
+- Description: A Catedral de Berlim é uma catedral protestante luterana localizada em Berlim, na Alemanha. Foi construída entre 1895 e 1905 e se encontra na Ilha dos Museus. Em rigor não se trata de uma catedral strictu sensu pois nunca foi sede de um bispado.
+- Schedule:
+	_Monday: 08:00-22:00
+	_Tuesday: 08:00-22:00
+	_Wednesday: 08:00-22:00
+	_Thursday: 08:00-22:00
+	_Friday: 08:00-22:00
+	_Saturday: 08:00-22:00
+	_Sunday: 08:00-22:00
+- Address: Am Lustgarten, 10178 Berlin
+- Phone: +49 30 20269136
+----------------------------------------------------------------------
+Name: MONUMENTO DO HOLOCAUSTO
+- Category: Monumento
+- Price: 7 € 
+- Description: O Memorial aos Judeus Mortos da Europa, também conhecido por Memorial do Holocausto, é um memorial em Berlim para vítimas judias do Holocausto. Consiste de uma área de 19 000 metros quadrados coberta com 2.711 blocos de concreto ou estelas, parecendo com um campo ondulado de pedras. 
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Cora-Berliner-Straße 1, 10117 Berlin
+- Phone: +49 30 26394336
+----------------------------------------------------------------------
+Name: PORTÃO DE BRANDEMBURGO
+- Category: Monumento
+- Price: Gratuito 
+- Description: O Portão de Brandemburgo, ou Porta de Brandemburgo, é uma antiga porta da cidade, reconstruída no final do século XVIII como um arco do triunfo neoclássico, e hoje um dos marcos mais conhecidos da Alemanha. 
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Pariser Platz 5, 10117 Berlin
+- Phone: NONE
+----------------------------------------------------------------------
+Name: KREUZBERG
+- Category: Zona de entretenimento 
+- Price: Gratuito 
+- Description: A extensa zona de Kreuzberg acolhe estudantes, artistas e uma grande comunidade turca, com muitos restaurantes perto da Kottbusser Tor. A peculiar área de Bergmannkiez é conhecida pelas lojas de artigos em segunda mão, cafés descontraídos e o paisagístico Viktoriapark. A zona sombria perto do parque Görlitzer oferece arte de rua, bares informais e bancas de comida na Markthalle Neun.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Kreuzberg, Berlim
+- Phone: NONE
+
+================================================== ====================
+================================================== ====================
+
+@Edimburgo
+#Escócia
+§£
+
+-----------------------------------------------------------------------
+Name: CASTELO DE EDIMBURGO
+- Category: Castelo 
+- Price: 18,40 £
+- Description: O Castelo de Edimburgo é uma antiga fortaleza que domina a silhueta da cidade de Edimburgo, na Escócia, a partir da sua posição no topo do Castle Rock. Trata-se de um dos mais importantes castelos do país, sendo a segunda atração turística mais visitada na Escócia, ao receber anualmente cerca de um milhão de pessoas.
+- Schedule:
+	_Monday: 09:30-18:00
+	_Tuesday: 09:30-18:00
+	_Wednesday: 09:30-18:00
+	_Thursday: 09:30-18:00
+	_Friday: 09:30-18:00
+	_Saturday: 09:30-18:00
+	_Sunday: 09:30-18:00
+- Address: Castlehill, Edinburgh, EH1 2NG Scotland
+- Phone: +44 131 225 9846
+-----------------------------------------------------------------------
+Name: PALÁCIO DE HOLYROODHOUSE
+- Category: Palácio 
+- Price: 16 £
+- Description: O Palácio de Holyroodhouse, ou informalmente Palácio de Holyrood, é um palácio da Escócia, fundado inicialmente, como um mosteiro, por David I da Escócia, em 1128. Serviu como principal residência dos reis e das rainhas da Escócia desde o século XV.
+- Schedule:
+	_Monday: 09:30-18:00
+	_Tuesday: 09:30-18:00
+	_Wednesday: 09:30-18:00
+	_Thursday: 09:30-18:00
+	_Friday: 09:30-18:00
+	_Saturday: 09:30-18:00
+	_Sunday: 09:30-18:00
+- Address: Canongate, Edinburgh, EH8 8DX Scotland
+- Phone: +44 131 556 5100
+-----------------------------------------------------------------------
+Name: ROYAL MYLE
+- Category: Centro Histórico 
+- Price: Gratuito
+- Description: A Royal Mile é o nome popular para a sucessão de ruas que formam a principal via do centro histórico de Edimburgo, na Escócia. Como o nome sugere, a Royal Mile é de aproximadamente uma milha escocesa, e se estende entre os dois pontos históricos da cidade: a partir do Castelo de Edimburgo até a Abadia de Holyrood.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Royal Myle, Edinburgh
+- Phone: NONE
+-----------------------------------------------------------------------
+Name: PRINCESS STREET GARDEN
+- Category: Jardim
+- Price: Gratuito
+- Description: A Princes Street é uma das principais ruas arteriais de Edimburgo, Escócia, sendo seu, principal centro de comércio. Possui cerca de 1 milha de extensão. A rua é exclusiva para tráfego automóveis particulares e transportes públicos prioritários
+- Schedule:
+	_Monday: 07:00-20:00
+	_Tuesday: 07:00-20:00
+	_Wednesday: 07:00-20:00
+	_Thursday: 07:00-20:00
+	_Friday: 07:00-20:00
+	_Saturday: 07:00-20:00
+	_Sunday: 07:00-20:00
+- Address: Princes Street, Edinburgh EH2 2HG
+- Phone: +44 131 529 7921
+-----------------------------------------------------------------------
+Name: GREYFRIAR'S BOBBY NICHOLSON'S
+- Category: Bar Restaurante
+- Price: Gratuito
+- Description: Ótima comida, com destaque para as carnes, Whisky excelente, ótimo atendimento e um ambiente muito aconchegante nas frias noites de Edimburgo.
+- Schedule:
+	_Monday: 12:00-00:00
+	_Tuesday: 12:00-00:00
+	_Wednesday: 12:00-00:00
+	_Thursday: 12:00-00:00
+	_Friday: 12:00-00:00
+	_Saturday: 12:00-01:00
+	_Sunday: 12:00-00:00
+- Address: 30–34 Candlemaker Row, Edinburgh EH1 2QE
+- Phone: +44 131 255 8328
+
+================================================== ====================
+================================================== ====================
+
+@São Petersburgo
+#Rússia
+§₽ 
+
+-----------------------------------------------------------------------
+Name: HERMITAGE/PALÁCIO DE INVERNO
+- Category: Palácio
+- Price: 3250 ₽ 
+- Description: O Palácio de Inverno é um palácio imperial da Rússia. Fica localizado em São Petersburgo, entre o Cais do Palácio e a Praça do Palácio. Foi construído entre 1754 e 1762 para servir de residência de inverno aos czares russos e suas famílias.
+- Schedule:
+	_Monday: FECHADO
+	_Tuesday: 10:30-18:00
+	_Wednesday: 10:30-21:00
+	_Thursday: 10:30-18:00
+	_Friday: 10:30-18:00
+	_Saturday: 10:30-18:00
+	_Sunday: 10:30-18:00
+- Address: Dvortsovaya Embankment, 38 Saint Petersburg, Russia 191186
+- Phone: +7 (812) 710-90-79
+-----------------------------------------------------------------------
+Name: PALÁCIO PETERHOF
+- Category: Palácios
+- Price: 9350 ₽ 
+- Description: Peterhof é um conjunto de palácios e jardins, distribuidos sob as ordens de Pedro, o Grande, e por vezes chamado de "Versailles Russo"
+- Schedule:
+	_Monday: 09:00-19:00
+	_Tuesday: 09:00-19:00
+	_Wednesday: 09:00-19:00
+	_Thursday: 09:00-19:00
+	_Friday: 09:00-19:00
+	_Saturday: 09:00-22:00
+	_Sunday: 09:00-19:00
+- Address:  Razvodnaya Ulitsa, 2, Sankt-Peterburg, Rússia
+- Phone: +7 (812) 980-67-97
+-----------------------------------------------------------------------
+Name: CATEDRAL DE KAZAN
+- Category: Templo
+- Price: 3550 ₽ 
+- Description: A Catedral de Nossa Senhora de Cazã é um templo ortodoxo localizado na cidade de São Petersburgo, sendo um dos raros exemplos do estilo Império trabalhados na Rússia imperial. A Catedral tem esse nome pelo fato de a imagem que ela abriga ter sido encontrada na cidade de Cazã, mas ela não está localizada na cidade.
+- Schedule:
+	_Monday: 09:30-18:00
+	_Tuesday: 09:30-18:00
+	_Wednesday: 09:30-18:00
+	_Thursday: 09:30-18:00
+	_Friday: 09:30-18:00
+	_Saturday: 09:30-18:00
+	_Sunday: 09:30-18:00
+- Address: Kazan Square, 2, Sankt-Peterburg, Rússia, 190000
+- Phone: NONE
+-----------------------------------------------------------------------
+Name: PALÁCIO DE CATARINA
+- Category: Palácio
+- Price: 4150 ₽ 
+- Description: O Palácio de Catarina é um palácio Rococó da Rússia, que serviu de residência de Verão aos Czares. Fica localizado na cidade de Tsarskoye Selo, 25 quilómetros a Sudeste de São Petersburgo.
+- Schedule:
+	_Monday: 09:00-19:00
+	_Tuesday: 09:00-19:00
+	_Wednesday: 09:00-19:00
+	_Thursday: 09:00-19:00
+	_Friday: 09:00-19:00
+	_Saturday: 09:00-21:00
+	_Sunday: 09:00-19:00
+- Address: Garden St, 7, Pushkin, Sankt-Peterburg, Rússia, 196601
+- Phone: +7 (812) 466-66-69
+
+================================================== ====================
+================================================== ====================
+
+@Paris
+#França
+§€ 
+
+-----------------------------------------------------------------------
+Name: ARCO DO TRIUNFO
+- Category: Monumento
+- Price: 12 € 
+- Description: O Arco do Triunfo é um monumento localizado na cidade de Paris, construído em comemoração às vitórias militares do Napoleão Bonaparte, o qual ordenou a sua construção em 1806. Inaugurado em 1836, a monumental obra detém, gravados, os nomes de 128 batalhas e 558 generais. Em sua base, situa-se o túmulo do soldado desconhecido (1920).
+- Schedule:
+	_Monday: 10:00-23:00
+	_Tuesday: 10:00-23:00
+	_Wednesday: 10:00-23:00
+	_Thursday: 10:00-23:00
+	_Friday: 10:00-23:00
+	_Saturday: 10:00-23:00
+	_Sunday: 10:00-23:00
+- Address: 27 Rue Vernet, 75008 Paris France
+- Phone: +33 1 55 37 73 77
+-----------------------------------------------------------------------
+Name: TORRE EIFFEL
+- Category: Torre
+- Price: 50 € 
+- Description: A Torre Eiffel é uma torre treliça de ferro do século XIX localizada no Champ de Mars, em Paris, a qual se tornou um ícone mundial da França. A torre, que é o edifício mais alto da cidade, é o monumento pago mais visitado do mundo, com milhões de pessoas frequentando-o anualmente.
+- Schedule:
+	_Monday: 09:30-23:45
+	_Tuesday: 09:30-23:45
+	_Wednesday: 09:30-23:45
+	_Thursday: 09:30-23:45
+	_Friday: 09:30-23:45
+	_Saturday: 09:30-23:45
+	_Sunday: 09:30-23:45
+- Address: 5 Avenue Anatole France, 75007 Paris France
+- Phone: +33 892 701 239
+-----------------------------------------------------------------------
+Name: CATEDRAL DE NOTRE DAME
+- Category: Catedral
+- Price: 15 € 
+- Description: A Catedral de Notre-Dame de Paris é uma das mais antigas catedrais francesas em estilo gótico. Iniciada sua construção no ano de 1163, é dedicada à Virgem Maria, mãe de Jesus, e situa-se na Île de la Cité em Paris, rodeada pelas águas do rio Sena.
+- Schedule:
+	_Monday: 09:30-18:00
+	_Tuesday: 09:30-18:00
+	_Wednesday: 09:30-18:00
+	_Thursday: 09:30-18:00
+	_Friday: 09:30-18:00
+	_Saturday: 09:30-18:00
+	_Sunday: 09:30-18:00
+- Address: 6 Parvis Notre-Dame - Place Jean-Paul II, 75004 Paris France
+- Phone: +33 1 42 34 56 10
+-----------------------------------------------------------------------
+Name: DISNEYLAND PARIS
+- Category: Parque de diversão
+- Price: 60 € 
+- Description: A Disneyland Paris, originalmente Euro Disney Resort, é um resort de entretenimento em Marne-la-Vallée, uma cidade planejada localizada 32 km a leste do centro de Paris, sendo a atração mais visitada em toda a França e Europa.
+- Schedule:
+	_Monday: 10:00-20:00
+	_Tuesday: 10:00-20:00
+	_Wednesday: 10:00-20:00
+	_Thursday: 10:00-20:00
+	_Friday: 10:00-20:00
+	_Saturday: 10:00-22:00
+	_Sunday: 10:00-21:00
+- Address: Boulevard de Parc, 77700 Coupvray, França
+- Phone: +33 825 300 500
+-----------------------------------------------------------------------
+Name: MUSEU DO LOUVRE
+- Category: Museu
+- Price: 65 € 
+- Description: O Museu do Louvre, é o maior museu de arte do mundo e um monumento histórico em Paris, França. Um marco central da cidade, está localizado na margem direita do rio Sena, no 1.º arrondissement. Aproximadamente 38.000 objetos, da pré-história ao século XXI, são exibidos em uma área de 72.735 metros quadrados.
+- Schedule:
+	_Monday: 09:00-18:00
+	_Tuesday: FECHADO
+	_Wednesday: 09:00-22:00
+	_Thursday: 09:00-18:00
+	_Friday: 09:00-22:00
+	_Saturday: 09:00-18:00
+	_Sunday: 09:00-19:00
+- Address: Rue de Rivoli, 75001 Paris, França
+- Phone: +33 1 40 20 53 17
+-----------------------------------------------------------------------
+Name: PALÁCIO DE VERSALHES
+- Category: Castelo
+- Price: 45 € 
+- Description: Palácio de Versalhes (em francês: Château de Versailles) é um castelo real localizado na cidade de Versalhes, uma aldeia rural à época de sua construção, mas actualmente um subúrbio de Paris. Desde 1682, quando Luís XIV se mudou de Paris, até a família real ser forçada a voltar à capital em 1789, a Corte de Versalhes foi o centro do poder do Antigo Regime na França.
+- Schedule:
+	_Monday: 09:00-17:30
+	_Tuesday: 09:00-17:30
+	_Wednesday: 09:00-17:30
+	_Thursday: 09:00-17:30
+	_Friday: 09:00-17:30
+	_Saturday: 09:00-17:30
+	_Sunday: 09:00-17:30
+- Address: Place d'Armes, 78000 Versailles, France
+- Phone: +33 1 30 83 78 00
+-----------------------------------------------------------------------
+Name: BASÍLICA DE SACRÉ COEUR
+- Category: Templo
+- Price: 15 € 
+- Description: A Basílica do Sagrado Coração é um templo da Igreja Católica Romana em Paris, sendo, também, o símbolo do bairro de Monte Martre. A basílica está localizada no topo do monte Martre, o ponto mais alto da cidade.
+- Schedule:
+	_Monday: 06:00-22:30
+	_Tuesday: 06:00-22:30
+	_Wednesday: 06:00-22:30
+	_Thursday: 06:00-22:30
+	_Friday: 06:00-22:30
+	_Saturday: 06:00-22:30
+	_Sunday: 06:00-22:30
+- Address: 35 Rue du Chevalier de la Barre, 75018 Paris, França
+- Phone: +33 1 53 41 89 00
+================================================== ====================
+================================================== ====================
+
+@Colónia
+#Alemanha
+§€ 
+
+-----------------------------------------------------------------------
+Name: CATEDRAL DE COLÓNIA
+- Category: Catedral
+- Price: 18 € 
+- Description: A Catedral de Colónia localizada na cidade alemã de Colónia, é uma igreja católica de estilo gótico, o marco principal da cidade e seu símbolo não-oficial. É a quinta igreja mais alta do mundo e foi classificada como patrimônio da humanidade em 1996.
+- Schedule:
+	_Monday: 06:00-21:00
+	_Tuesday: 06:00-21:00
+	_Wednesday: 06:00-21:00
+	_Thursday: 06:00-21:00
+	_Friday: 06:00-21:00
+	_Saturday: 06:00-21:00
+	_Sunday: 06:00-21:00
+- Address: Domkloster 4, 50667 Cologne Germany
+- Phone: +49 221 17940303
+-----------------------------------------------------------------------
+Name: BASÍLICA SÃO CUNIBERTO
+- Category: Igreja
+- Price: 27 € 
+- Description: A Basílica de São Cuniberto, também St. Kunibert, é a última das doze igrejas românicas de Colônia a serem construídas. Foi consagrada em 1247, um ano antes do início do trabalho na catedral gótica de Colônia. Foi declarada uma basílica menor em 1998 pelo então papa João Paulo II.
+- Schedule:
+	_Monday: 07:00-19:00
+	_Tuesday: 07:00-19:00
+	_Wednesday: 07:00-19:00
+	_Thursday: 07:00-19:00
+	_Friday: 07:00-19:00
+	_Saturday: 07:00-19:00
+	_Sunday: 07:00-19:00
+- Address:  Kunibertsklostergasse 2, 50668 Köln, Alemanha
+- Phone: +49 221 121214
+-----------------------------------------------------------------------
+Name: MUSEU DO PERFUME
+- Category: Museu
+- Price: 100 €  
+- Description: O Museu do perfume é um museu alemão localizado na cidade de Colônia. Encontra-se na histórica Casa Farina, situada na antiga rua romana Obenmarspforten, em frente ao Museu Wallraf-Richartz e à prefeitura. É precisamente aqui, onde antigamente se fabricava a água-de-colônia
+- Schedule:
+	_Monday: 10:00-19:00
+	_Tuesday: 10:00-19:00
+	_Wednesday: 10:00-19:00
+	_Thursday: 10:00-19:00
+	_Friday: 10:00-19:00
+	_Saturday: 10:00-19:00
+	_Sunday: 11:00-17:00
+- Address:  Obenmarspforten 21, 50667 Köln, Alemanha
+- Phone: +49 221 3998994
+-----------------------------------------------------------------------
+Name: CERVEJARIA PAEFFGEN
+- Category: Petisqueira
+- Price: 5 € 
+- Description: Um restaurante excelente na cidade de Colónia, onde fabricam a sua própria cerveja, e podem ser provadas cerca de 40 variedades desta bebida. 
+- Schedule:
+	_Monday: 10:00-00:00
+	_Tuesday: 10:00-00:00
+	_Wednesday: 10:00-00:00
+	_Thursday: 10:00-00:00
+	_Friday: 10:00-00:30
+	_Saturday: 10:00-00:30
+	_Sunday: 11:00-00:00
+- Address:  Friesenstraße 64-66, 50670 Köln, Alemanha
+- Phone: +49 221 135461
+================================================== ====================
+================================================== ====================
+
+@Madrid
+#Espanha
+§€ 
+
+-----------------------------------------------------------------------
+Name: MUSEU DO PRADO
+- Category: Museu
+- Price: 15 € 
+- Description: O Museu do Prado é o mais importante museu da Espanha e um das mais importantes do mundo. Apresentando belas e preciosas obras de arte, o museu localiza-se em Madrid e foi mandado construir por Carlos III. As obras de construção prolongaram-se por muitos anos, tendo sido inaugurado somente no reinado de Fernando VII. 
+- Schedule:
+	_Monday: 10:00-20:00
+	_Tuesday: 10:00-20:00
+	_Wednesday: 10:00-20:00
+	_Thursday: 10:00-20:00
+	_Friday: 10:00-20:00
+	_Saturday: 10:00-20:00
+	_Sunday: 10:00-19:00
+- Address: Paseo del Prado, s/n, 28014 Madrid, Espanha
+- Phone: +34 913 302 800
+-----------------------------------------------------------------------
+Name: PLAZA MAYOR
+- Category: Praça
+- Price: Gratuito 
+- Description: A Plaza Mayor situa-se no centro da cidade de Madrid a poucos metros da Porta do Sol e da Plaza de la Villa. É uma praça retangular, rodeada de todos os lados de edifícios de três pisos, sendo a sua entrada apenas possível através dos nove pórticos. Tem 129 metros de comprimento e 94 de largura. 
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Plaza Mayor, 2, 28012 Madrid
+- Phone: +34 915 881 636
+-----------------------------------------------------------------------
+Name: PALÁCIO REAL
+- Category: Palácio
+- Price: 14 € 
+- Description: O Palácio Real de Madrid, também denominado de Palácio de Oriente e, durante a Segunda República Espanhola, de Palácio Nacional, é a residência oficial do Rei de Espanha, situado em Madrid, a capital espanhola. Com uma área de 135 000 m² e 4318 quartos, é o maior palácio real na Europa.
+- Schedule:
+	__Monday: 10:00-20:00
+	_Tuesday: 10:00-20:00
+	_Wednesday: 10:00-20:00
+	_Thursday: 10:00-20:00
+	_Friday: 10:00-20:00
+	_Saturday: 10:00-20:00
+	_Sunday: 10:00-20:00
+- Address:  Calle de Bailén, s/n, 28013 Madrid
+- Phone: +34 914 548 700
+-----------------------------------------------------------------------
+Name: PUERTA DEL SOL
+- Category: Centro emblemático de Madrid
+- Price: Gratuito 
+- Description: A Puerta del Sol é um dos locais mais famosos e concorridos da cidade espanhola de Madrid. É neste local que se encontra desde 1950, o quilómetro zero das estradas espanholas. O edifício mais antigo da Puerta del Sol é a Real Casa de Correos e nele destaca-se o relógio da torre que foi construído e doado no séc. XIX por José Rodriguez de Losada, e que faz tradicionalmente a contagem decrescente para a entrada do novo ano todos os 31 de Dezembro, assim como o tradicional comer das passas. 
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address:  Plaza de la Puerta del Sol, 9 , 28013 Madrid
+- Phone: NONE
+-----------------------------------------------------------------------
+Name: ESTÁDIO SANTIAGO BARNABÉU
+- Category: Estádio
+- Price: 25 € 
+- Description: O Estádio Santiago Bernabéu é um estádio de futebol localizado em Madrid, na Espanha, de propriedade do Real Madrid. 
+- Schedule:
+	_Monday: 10:00-19:00
+	_Tuesday: 10:00-19:00
+	_Wednesday: 10:00-19:00
+	_Thursday: 10:00-19:00
+	_Friday: 10:00-19:00
+	_Saturday: 10:00-19:00
+	_Sunday: 10:30-18:30
+- Address:  Avenida de Concha Espina, 1, 28036 Madrid
+- Phone: +34 913 984 300
+-----------------------------------------------------------------------
+Name: PLAZA DE CIBELES
+- Category: Praça
+- Price: Gratuito 
+- Description: Situada no centro da cidade, no cruzamento entre o Paseo del Prado e a Calle Alcalá, a Plaza de Cibeles é um dos espaços mais representativos de Madrid. Além de ser um dos monumentos mais representativos de Madrid, a Fonte de Cibeles é há muito tempo o lugar de celebração das vitórias do Real Madrid. Também é o lugar escolhido para outras celebrações esportivas, como as da Seleção Espanhola de futebol e de basquete. 
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address:  Plaza de Cibeles, 28014 Madrid
+- Phone: NONE
+================================================== ====================
+================================================== ====================
+
+@Lisboa
+#Portugal
+§€ 
+
+-----------------------------------------------------------------------
+Name: PRAÇA DO COMÉRCIO
+- Category: Praça
+- Price: Gratuito 
+- Description: A Praça do Comércio é a praça mais importante de Lisboa. Durante décadas, foi a porta de Lisboa para o comércio marítimo.A praça foi construída onde estava o Palácio Real antes de ser destruído pelo grande terremoto de 1755. A fisionomia da Praça do Comércio é formada por um conjunto de edifícios instalados em três dos seus lados e está aberta do lado sul, olhando ao Tejo. Historicamente ali chegavam os barcos mercantes e essa era a porta de Lisboa. Perto da praça, na margem do rio, está a estação fluvial Cais de Sodré, de onde saem as excursões pelo Tejo e os barcos que cruzam o rio.  
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Praça do Comércio, 1100 Lisboa
+- Phone: NONE
+-----------------------------------------------------------------------
+Name: PRAÇA DO ROSSIO
+- Category: Praça
+- Price: Gratuito 
+- Description:  
+- Schedule: A Praça do Rossio, oficialmente chamada de Praça Dom Pedro IV, é o centro nevrálgico de Lisboa. Está localizada na Baixa, no extremo norte da Rua Augusta e perto da Praça dos Restauradores. 
+A Praça do Rossio é a região mais animada da cidade e o ponto de encontro de lisboetas e visitantes. Nos lados da praça e seus arredores, você encontrará lojas, bares e restaurantes dos mais famosos da cidade.
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Praça do Rossio, 1100 Lisboa
+- Phone: NONE
+-----------------------------------------------------------------------
+Name: PRAÇA MARQUÊS DE POMBAL
+- Category: Praça
+- Price: Gratuito 
+- Description: A Praça Marquês de Pombal é o centro da Lisboa moderna. Está situada ao lado do Parque Eduardo VII, ao final da Avenida da Liberdade. No centro da praça se erige um monumento ao Marquês de Pombal, governador de Lisboa entre 1750 e 1777, junto com um leão, o símbolo clássico do poder.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Praça Marquês de Pombal, 1070 Lisboa
+- Phone: NONE
+-----------------------------------------------------------------------
+Name: MOSTEIRO DOS JERÓNIMOS
+- Category: Monumento
+- Price: 10 € 
+- Description: O mosteiro foi declarado Património da Humanidade pela UNESCO em 1983. Criado pelo arquiteto Diogo de Boitaca, a construção do Mosteiro dos Jerónimos teve início no dia 6 de janeiro de 1501 e terminou no final do século XVI. O estilo predominante do mosteiro é o manuelino e foi construído para celebrar o retorno de Vasco da Gama das Índias.
+Como curiosidade, a localização do mosteiro foi escolhida por ser onde estava a Ermida do Restelo, igreja onde Vasco da Gama e sua tripulação passaram um tempo rezando antes de começar sua viagem. 
+- Schedule:
+	_Monday: 10:00-18:30
+	_Tuesday: 10:00-18:30
+	_Wednesday: 10:00-18:30
+	_Thursday: 10:00-18:30
+	_Friday: 10:00-18:30
+	_Saturday: 10:00-18:30
+	_Sunday: 11:00-18:30
+- Address: Praça do Império, 1400-206 Lisboa
+- Phone: +351 213 620 034
+-----------------------------------------------------------------------
+Name: TORRE DE BELÉM
+- Category: Monumento
+- Price: 6 €
+- Description: A Torre de Belém, oficialmente Torre de São Vicente, localiza-se na freguesia de Belém, concelho e distrito de Lisboa, em Portugal. Na margem direita do rio Tejo, onde existiu outrora a praia de Belém, era primitivamente cercada pelas águas em todo o seu perímetro.  
+- Schedule:
+	_Monday: FECHADO
+	_Tuesday: 10:00-17:00
+	_Wednesday: 10:00-17:00
+	_Thursday: 10:00-17:00
+	_Friday: 10:00-17:00
+	_Saturday: 10:00-17:00
+	_Sunday: 10:00-17:00
+- Address: Cais da Princesa, 1400 Lisboa
+- Phone: +351 213 620 034
+-----------------------------------------------------------------------
+Name: OCEANÁRIO DE LISBOA
+- Category: Oceanário
+- Price: 18 € 
+- Description: O oceanário de Lisboa é o segundo maior aquário da Europa. Nele convivem mais de 15.000 animais e mais de 450 espécies diferentes de plantas. 
+- Schedule:
+	_Monday: 10:00-20:00
+	_Tuesday: 10:00-20:00
+	_Wednesday: 10:00-20:00
+	_Thursday: 10:00-20:00
+	_Friday: 10:00-20:00
+	_Saturday: 10:00-20:00
+	_Sunday: 11:00-20:00
+- Address: Esplanada Dom Carlos I, 1990-005 Lisboa
+- Phone: +351 218 917 000
+================================================== ====================
+================================================== ====================
+
+@Veneza
+#Itália
+§€ 
+
+-----------------------------------------------------------------------
+Name: GRAND CANAL
+- Category: Canal
+- Price: Gratuito 
+- Description: O Grande Canal é um canal em Veneza, Itália. Forma um dos principais corredores de tráfego de água da cidade. 
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Canal Grande , Veneza
+- Phone: NONE
+-----------------------------------------------------------------------
+Name: PIAZZA SAN MARCO
+- Category: Praça
+- Price: Gratuito 
+- Description: A Praça São Marcos mede 180 metros de comprimento por 70 metros de largura e é a única piazza de Veneza, já que as outras são piazzales ou campos.
+Sua construção teve início no século IX, adotando o tamanho e a forma atual em 1177, sendo pavimentada 100 anos depois.A Piazza San Marco é uma das praças mais bonitas do mundo e Napoleão Bonaparte a definiu como “O Salão mais Bonito da Europa”.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Piazza San Marco, 30124 Venice
+- Phone: NONE
+-----------------------------------------------------------------------
+Name: BASÍLICA DE SÃO MARCOS
+- Category: Templo
+- Price: Gratuito 
+- Description: A Basílica de São Marcos é o templo religioso mais importante de Veneza. A basílica está situada na Piazza San Marco, que sempre foi o centro da vida pública e religiosa da cidade. Historicamente foi o centro da vida religiosa veneziana.  
+- Schedule:
+	_Monday: 09:30-17:00
+	_Tuesday: 09:30-17:00
+	_Wednesday: 09:30-17:00
+	_Thursday: 09:30-17:00
+	_Friday: 09:30-17:00
+	_Saturday: 09:30-17:00
+	_Sunday: 14:00-16:00
+- Address: San Marco 328, 30124 Venice
+- Phone: +39 041 2708311
+-----------------------------------------------------------------------
+Name: PONTE RIALTO
+- Category: Ponte
+- Price: 0 €
+- Description: A Ponte Rialto é a mais antiga das quatro pontes que cruzam o Grand Canal de Veneza, além de ser a mais conhecida tanto por seu design quanto por sua história. Durante anos foi o centro económico mais importante de Veneza.
+A Ponte Rialto foi construída entre 1588 e 1591, com um design do arquiteto Antonio da Ponte para substituir a anterior ponte de madeira, que já havia caído duas vezes, além de ter sido incendiada. 
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: 30124 Venice
+- Phone: NONE
+================================================== ====================
+================================================== ====================
+
+@Atenas
+#Grécia
+§€ 
+
+-----------------------------------------------------------------------
+Name: ACRÓPOLE
+- Category: Monumento
+- Price: 15 € 
+- Description: Traduzido literalmente do grego, a Acrópole era a “cidade alta”, um lugar característico da maioria das cidades gregas que possuía a função defensiva, além de funcionar como sede dos principais lugares de culto.
+Localizada em um lugar estratégico capaz de dominar cada ponto da cidade, a Acrópole de Atenas é o lugar mais importante e conhecido de toda Grécia. Está situada no cume de uma colina de 156 metros sobre o nível do mar e é possível vê-la da maioria das zonas da cidade.
+- Schedule:
+	_Monday: 08:00-17:00
+	_Tuesday: 08:00-17:00
+	_Wednesday: 08:00-17:00
+	_Thursday: 08:00-17:00
+	_Friday: 08:00-17:00
+	_Saturday: 08:00-17:00
+	_Sunday: 08:00-17:00
+- Address: Acropolis, 10558 Athens
+- Phone: +30 21 0321 4172
+-----------------------------------------------------------------------
+Name: DELFOS
+- Category: Ruínas
+- Price: 0 € 
+- Description: Embora estejam atualmente em ruínas, os templos e casas fortes que um dia abrigaram os sacerdotes e sacerdotisas do Oráculo de Delfos, localizado na cidade de Delfos, região central da Grécia, há cerca de 2500 anos, foi uma das mais influentes e poderosas instituições do mundo grego antigo.
+- Schedule:
+	_Monday: 08:00-15:00
+	_Tuesday: 08:00-15:00
+	_Wednesday: 08:00-15:00
+	_Thursday: 08:00-15:00
+	_Friday: 08:00-15:00
+	_Saturday: 08:00-15:00
+	_Sunday: 08:00-15:00
+- Address: Ε.Ο. Λειβαδειάς - Άμφισσας, 33054 Δελφοί
+- Phone: +30 2265 082313
+-----------------------------------------------------------------------
+Name: PARTENON
+- Category: Monumento
+- Price: 0 € 
+- Description: O Partenon ou Partenão foi um templo dedicado à deusa grega Atena, construído no século V a.C. na Acrópole de Atenas, na Grécia Antiga, por iniciativa de Péricles, governante da cidade, projectado pelos arquitetos Calícrates e Ictinos e decorado em sua maior parte pela oficina do escultor Fídias, que também executou a estátua criselefantina (feita de marfim e ouro) da deusa patrona da cidade, Atena Partenos, presente no interior do templo naquela época.
+- Schedule:
+	_Monday: 08:00-17:00
+	_Tuesday: 08:00-17:00
+	_Wednesday: 08:00-17:00
+	_Thursday: 08:00-17:00
+	_Friday: 08:00-17:00
+	_Saturday: 08:00-17:00
+	_Sunday: 08:00-17:00
+- Address: Pártenon, 10556 Atenas
+- Phone: NONE
+-----------------------------------------------------------------------
+Name: ESTÁDIO PANATENAICO
+- Category: Monumento
+- Price: 1,5 € 
+- Description: O Estádio Panatenaico, também chamado Calimármaro, é um estádio de atletismo situado em Atenas, construído inteiramente em mármore branco no Monte Pentélico, é um dos estádios mais antigos do mundo.
+- Schedule:
+	_Monday: 08:00-19:00
+	_Tuesday: 08:00-19:00
+	_Wednesday: 08:00-19:00
+	_Thursday: 08:00-19:00
+	_Friday: 08:00-19:00
+	_Saturday: 08:00-19:00
+	_Sunday: 08:00-19:00
+- Address: Leoforos Vasileos Konstantinou, 11636 Athens
+- Phone: +30 21 0752 2984
+-----------------------------------------------------------------------
+Name: METÉORA
+- Category: Mosteiros
+- Price: 0 € 
+- Description: Metéora é um dos maiores e mais importantes complexos de mosteiros do Cristianismo Oriental, superado apenas pelo Monte Atos. Os seis mosteiros foram construídos sobre pilares de rocha de arenito, na região noroeste da planície da Tessália, próximo ao rio Peneu e às montanhas Pindo, na Grécia central.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Kalabáka 422 00, Grécia
+- Phone: NONE
+================================================== ====================
+================================================== ====================
+
+@Oslo
+#Noruega
+§NOK 
+
+-----------------------------------------------------------------------
+Name: VIKINGSKIPSHUSET
+- Category: Museu
+- Price: 100 NOK 
+- Description: Museu dos barcos viquingues de Oslo é um museu situado na ilha de Bygdøy, em Oslo, na Noruega. Está integrado no museu de história e cultura, pertencente à Universidade de Oslo. O museu alberga barcos encontrados em diversas sepulturas viquingues, após escavações efectuadas em Tune, Gokstad, Oseberga e Borrehaugene.
+- Schedule:
+	_Monday: 09:00-18:00
+	_Tuesday: 09:00-18:00
+	_Wednesday: 09:00-18:00
+	_Thursday: 09:00-18:00
+	_Friday: 09:00-18:00
+	_Saturday: 09:00-18:00
+	_Sunday: 09:00-18:00
+- Address: Huk Aveny 35, 0287 Oslo, Noruega
+- Phone: +47 22 13 52 80
+-----------------------------------------------------------------------
+Name: PALÁCIO REAL DE OSLO
+- Category: Palácio
+- Price: 450 NOK 
+- Description: O Palácio Real, em Oslo, na Noruega, é a residência oficial da família real norueguesa.
+- Schedule:
+	_Monday: 09:00-18:00
+	_Tuesday: 09:00-18:00
+	_Wednesday: 09:00-18:00
+	_Thursday: 09:00-18:00
+	_Friday: 09:00-18:00
+	_Saturday: 09:00-18:00
+	_Sunday: 09:00-18:00
+- Address: Slottsplassen 1, 0010 Oslo, Noruega
+- Phone: +47 22 04 87 00
+-----------------------------------------------------------------------
+Name: FORTALEZA DE AKERSHUS
+- Category: Castelo
+- Price: Gratuito 
+- Description: A fortaleza de Akershus localiza-se em Oslo, capital da Noruega. A sua construção iniciou-se em 1299 sob as ordens do rei Haakon V da Noruega, substituindo Tønsberg como um dos dois mais importantes castelos noruegueses do período.
+- Schedule:
+	_Monday: 06:00-21:00
+	_Tuesday: 06:00-21:00
+	_Wednesday: 06:00-21:00
+	_Thursday: 06:00-21:00
+	_Friday: 06:00-21:00
+	_Saturday: 06:00-21:00
+	_Sunday: 06:00-21:00
+- Address: 0150 Oslo, Noruega
+- Phone: +47 23 09 39 17
+-----------------------------------------------------------------------
+Name: PARQUE VIGELAND
+- Category: Parque
+- Price: Gratuito 
+- Description: O Parque Vigeland é uma área que fica situada no Parque Frogner, em Oslo, Noruega. Está localizado a 3 km do centro da cidade e cobre uma área de 320000 m². É um local popular para exposições e atividades ao ar livre, como piqueniques e banho de sol
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Nobels gate 32, 0268 Oslo, Noruega
+- Phone: +47 23 49 37 00
+================================================== ====================
+================================================== ====================
+
+@Praga
+#República Checa
+§CZK
+
+-----------------------------------------------------------------------
+Name: CASTELO DE PRAGA
+- Category: Castelo
+- Price: 350 CZK 
+- Description: Longe da ideia de castelo medieval com aspecto fortificado, o Castelo de Praga é composto por um conjunto de belos palácios e edifícios conectados por pequenas vielas. Podemos dizer que a história de Praga começa com a construção do castelo, sua localização estratégica rapidamente fez dele o centro do território, além de ter sido a residência dos Reis de Boêmia desde a sua fundação pelo príncipe Borivoj.
+- Schedule:
+	_Monday: 05:00-00:00
+	_Tuesday: 05:00-00:00
+	_Wednesday: 05:00-00:00
+	_Thursday: 05:00-00:00
+	_Friday: 05:00-00:00
+	_Saturday: 05:00-00:00
+	_Sunday: 05:00-00:00
+- Address: Hradčany, 119 08 Praga 1, Tchéquia
+- Phone: +420 224 373 368
+-----------------------------------------------------------------------
+Name: PONTE CARLOS
+- Category: Ponte
+- Price: Gratuito 
+- Description: Com mais de 500 metros de comprimento e 10 de largura, a Ponte Carlos teve, no passado, quatro faixas destinadas à passagem de carruagens, mas atualmente é de uso exclusivo de pedestres. A Ponte Carlos recebe o nome do seu criador, Carlos IV, que colocou a primeira pedra em 1357 para substituir a Ponte Judite, que foi completamente destruída em uma inundação. 
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Karlův most, 110 00 Praha 1, Chéquia
+- Phone: NONE
+-----------------------------------------------------------------------
+Name: PRAÇA DA CIDADE VELHA
+- Category: Praça
+- Price: Gratuito 
+- Description: Durante o século XI, as edificações foram se estendendo desde o Castelo até a margem direita do rio Moldava. No final daquele século é mencionada pela primeira vez a existência de um mercado na atual praça da Cidade Velha.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Staroměstské nám., 110 00 Josefov, Tchéquia
+- Phone: +420 221 714 444
+-----------------------------------------------------------------------
+Name: CATEDRAL DE SÃO VITO
+- Category: Catedral
+- Price: 300 CZK
+- Description: A Catedral de São Vito é a catedral mais importante de Praga e um dos seus monumentos mais significativos. Sua construção começou em 1344 por ordem de João de Luxemburgo e, depois de várias épocas e arquitetos diferentes, foi terminada finalmente entre os séculos XIX e XX. A Catedral de São Vito abriu suas portas ao público no final de 1929. A catedral guarda a tumba de Venceslau IV (O rei bom), as Jóias da Coroa e é o lugar de coroação dos reis da Boêmia
+- Schedule:
+	_Monday: 09:00-18:00
+	_Tuesday: 09:00-18:00
+	_Wednesday: 09:00-18:00
+	_Thursday: 09:00-18:00
+	_Friday: 09:00-18:00
+	_Saturday: 09:00-18:00
+	_Sunday: 12:00-18:00
+- Address: III. nádvoří 48/2, 119 01 Praha 1-Hradčany, Tchéquia
+- Phone: +420 224 372 434
+-----------------------------------------------------------------------
+Name: PRAÇA VENCESLAU
+- Category: Praça
+- Price: Gratuito 
+- Description: A Praça Venceslau é o centro da Cidade Nova e presenciou muitos dos acontecimentos da história recente de Praga e da República Tcheca em geral. A praça tem um formato alongado e mede 750 metros de comprimento por 60 de largura. Os edifícios que a rodeiam são, em sua maioria, hotéis, restaurantes e lojas de moda. O mercado de cavalos, fundado em 1348, acontecia ali antigamente.
+- Schedule:
+	_Monday: 00:00-23:59
+	_Tuesday: 00:00-23:59
+	_Wednesday: 00:00-23:59
+	_Thursday: 00:00-23:59
+	_Friday: 00:00-23:59
+	_Saturday: 00:00-23:59
+	_Sunday: 00:00-23:59
+- Address: Václavské nám., 110 00 Praha 1, Tchéquia
+- Phone: NONE
+-----------------------------------------------------------------------
